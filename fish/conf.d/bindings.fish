@@ -1,0 +1,4 @@
+#bindings
+
+bind \ez btop
+
